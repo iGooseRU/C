@@ -1,0 +1,3 @@
+C:/Egor/ITMO/Labs/Proga/Laba13NEW/cmake-build-debug/CMakeFiles/Laba13NEW.dir
+C:/Egor/ITMO/Labs/Proga/Laba13NEW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Egor/ITMO/Labs/Proga/Laba13NEW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
